@@ -63,14 +63,12 @@
   }
 
 #image1  {
-  border-radius: 25px;
-  padding: 20px;
-  width: 200px;
-  height: 150px;
+  border-radius: 50%;
+  
 }
 
 #image2  {
-  border-radius: 25px;
+  border-radius: 50%;
   padding: 20px;
   width: 200px;
   height: 150px;
